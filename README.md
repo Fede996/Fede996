@@ -1,7 +1,7 @@
 👋🏼 Hi, my name is Federico Raso.<br/>
 &nbsp; &nbsp; &nbsp; I was born in 1996 and based in Italy.<br/>
 <br/>
-📚 Currently studying Computer Engineering (Graphic and Multimedia specialization) @ Politecnico di Torino <br/>
+📚 Currently studying Computer Engineering (Graphics and Multimedia specialization) @ Politecnico di Torino <br/>
 💻 Working part-time as a software developer for Seica S.p.a. <br/>
 🕹 Proficient with programming, and focusing on learning game development and 3D modeling. <br/>
 </br>
