@@ -3,7 +3,7 @@
 <br/>
 📚 Currently studying Computer Engineering (Graphics and Multimedia specialization) @ Politecnico di Torino <br/>
 💻 Working part-time as a software developer for Seica S.p.a. <br/>
-🕹 Proficient with programming, and focusing on learning game development and 3D modeling. <br/>
+🕹 Proficient with programming, focusing on learning game development and 3D modeling. <br/>
 </br>
 📫 You can reach me at the address: <l>fede.raso@hotmail.com <br/>
 
