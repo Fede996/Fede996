@@ -14,6 +14,18 @@
 
 ## 🔭 Main tech stack
 These are the programming languages and tools that I use daily at work and/or for my personal projects.<br>
+
+<!---
+![.Net](https://img.shields.io/badge/-.NET-%23512BD4?style=plastic&logo=dotnet&logoColor=white&labelColor=gray)
+![.Net](https://img.shields.io/badge/-.NET-%23512BD4?logo=dotnet&logoColor=white&labelColor=gray)
+![.Net](https://img.shields.io/badge/-.NET-%23512BD4?style=for-the-badge&logo=dotnet&logoColor=white&labelColor=gray)
+  
+
+![C#](https://img.shields.io/badge/-C%23-%23239120?style=plastic&logo=csharp&logoColor=white&labelColor=gray)
+![C#](https://img.shields.io/badge/-C%23-%23239120?logo=csharp&logoColor=white&labelColor=gray)
+![C#](https://img.shields.io/badge/-C%23-%23239120?style=for-the-badge&logo=csharp&logoColor=white&labelColor=gray)
+--->
+
   
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) 
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) 
